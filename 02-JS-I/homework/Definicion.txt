@@ -1,0 +1,16 @@
+Explica los siguientes conceptos.
+
+-Variables.
+    Son unas instrucciones que se le da al interprete de código, donde se le asigna un valor, a un nombre que sea mas entendible para el lenguaje de los humanos.
+
+-Strings.
+    Es una cadena de caracteres, por lo general en letras que se le indica al interprete del código para que muestre en pantalla algún texto que queremos mostrar despues de ejecutar nuestro código, las Strings se escriben entre comillas.
+
+-Funciones (Argumentos, return)
+    Es un conjunto de instrucciones que toma un valor y devuelve una salida.
+
+-Declaraciones if
+    Esta declaracion proviende de la palabra inglesa si, es decir que se indica una condición, para que el interprete de código realice o una u otra acción.
+
+-valores booleanos(ture, false)
+    Un valor booleano es un valor que podemos asignarle a una Variable cuando sabemos o queremos que la respuesta únicamente contenga dos valores si o no, verdadero o falso.
